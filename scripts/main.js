@@ -15,7 +15,7 @@ return false;
 }
 function Popup()
 {
-window.alert('Hey le site xxxvidsxxx est trop bien. Viens dessus stp please','_blank');
+window.alert('Hey le site http://www.xxxvidsxxx.com est trop bien. Viens dessus stp please','_blank');
 }
 
 
